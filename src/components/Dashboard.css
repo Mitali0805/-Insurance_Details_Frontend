@@ -1,0 +1,32 @@
+.box{
+    text-align: center;
+}
+
+.MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #e6f2ff !important;
+}
+
+.MuiInput-underline::after {
+    border-bottom: none !important;
+}
+
+.MuiInput-underline::before {
+    border-bottom: none !important;
+}
+
+.editButton {
+    float: right !important;
+}
+
+#editButton {
+    background-color: #00264d;
+    color: white;
+    margin-right: 2%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.MuiDialogContent-root {
+    padding: 5px 40px !important;
+}

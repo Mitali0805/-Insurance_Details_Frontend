@@ -1,0 +1,12 @@
+.insuranceText{
+    margin-right: 29px !important;
+}
+
+#primaryButton{
+    background-color: #00264d;
+    color: white;
+    margin-top: 25px;
+    padding: 10px;
+    width: 42%;
+    border-radius: 5px;
+}
